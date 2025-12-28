@@ -22,7 +22,7 @@ class Developer {
   constructor() {
     this.name = "Jatin Joshi";
     this.role = "Computer Engineering Student";
-    this.location = "Jamnagar, Gujarat, India 🇮🇳";
+    this.location = "Ahmedabad, Gujarat, India 🇮🇳";
     this.mission = "Building impactful and scalable tech solutions";
     this.status = "Open to collaborations and opportunities";
   }
