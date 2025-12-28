@@ -18,7 +18,7 @@
 
 ## 🎯 About Me
 
-```javascript
+javascript
 class Developer {
   constructor() {
     this.name = "Jatin Joshi";
@@ -40,7 +40,7 @@ class Developer {
     return "Code with purpose. Build with passion.";
   }
 }
-```
+
 
 > *Transforming ideas into digital reality through innovation* 🚀
 
